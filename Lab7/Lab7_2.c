@@ -6,7 +6,7 @@
 int checkOperation(float x, char op, float y);
 float calculate(float x, char op, float y);
 
-int main(void)
+int main()
 {
     float x, y, result;
     char op;

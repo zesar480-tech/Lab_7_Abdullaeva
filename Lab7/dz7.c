@@ -5,7 +5,7 @@
 int isLeapYear(int year);
 int daysInMonth(int month, int leap);
 
-int main(void)
+int main()
 {
     int month, year, leap, days;
 
